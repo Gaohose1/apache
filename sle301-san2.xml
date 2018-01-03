@@ -1,0 +1,9 @@
+<network>
+  <name>sle301-san2</name>
+  <uuid>e6a8fff1-13c4-4a06-9bbd-72f0ba38a6ac</uuid>
+  <bridge name='virbr5' stp='on' delay='0'/>
+  <mac address='52:54:00:3d:ec:31'/>
+  <domain name='sle301-san2'/>
+  <ip address='172.17.4.1' netmask='255.255.255.0'>
+  </ip>
+</network>

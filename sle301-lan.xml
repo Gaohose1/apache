@@ -1,0 +1,9 @@
+<network>
+  <name>sle301-lan</name>
+  <uuid>a89ac53d-37f3-4775-b30e-e78e8e6d64cd</uuid>
+  <bridge name='virbr3' stp='on' delay='0'/>
+  <mac address='52:54:00:c5:eb:bf'/>
+  <domain name='sle301-lan'/>
+  <ip address='172.17.5.1' netmask='255.255.255.0'>
+  </ip>
+</network>
